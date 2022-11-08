@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @huseynsnmz
+- 👀 I’m interested in: DevOps
+- 🌱 I’m currently learning: Rust
+- 📫 How to reach me: huseynsnmz3@gmail.com
